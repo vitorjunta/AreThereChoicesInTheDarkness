@@ -20,15 +20,15 @@ The study evaluated **24 caves in the Santana region, Bahia, Brazil**, aiming to
 
 ## 📊 Data Analysis (Summary)
 - **Pre-analysis:** Checked correlations, multicollinearity, normality, and spatial autocorrelation.  
-- **Community richness:** GLM and GLMM with Poisson family for both scales.    
+- **Community richness:**GLMM for both scales.    
 - **Community composition:** dbRDA at transect and quadrat levels.  
 - **Diversity indices:** Shannon-Weaver index for substrate, shelter, and trophic resources.  
-- **Tools:** R (`dplyr`, `vegan`, `lme4`, `MuMIn`, `piecewiseSEM`), QGIS.
+- **Tools:** R (`dplyr`, `vegan`, `lme4`, `MuMIn`, `piecewiseSEM`)
 
 ---
 
 ## 🗂 Repository Structure
-- `data/` – raw datasets (as confidentiality allows)  
+- `data/` – raw datasets
 - `scripts/` – R scripts for data processing and analysis  
 ---
 
